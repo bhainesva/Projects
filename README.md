@@ -8,7 +8,7 @@ Numbers
 
 [**Find PI to the Nth Digit** ](https://github.com/bhainesva/Projects/blob/master/Numbers/pi.py) - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-[**Fibonacci Sequence**](https://github.com/bhainesva/Projects/blob/master/classic-algorithms/collatz.py) - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
@@ -48,7 +48,7 @@ Numbers
 Classic Algorithms
 -----------------
 
-**Collatz Conjecture** - Start with a number *n > 1*. Find the number of steps it takes to reach one using the following process: If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1.
+[**Collatz Conjecture**](https://github.com/bhainesva/Projects/blob/master/classic-algorithms/collatz.py)- Start with a number *n > 1*. Find the number of steps it takes to reach one using the following process: If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1.
 
 **Sorting** - Implement two types of sorting algorithms: Merge sort and bubble sort.
 
